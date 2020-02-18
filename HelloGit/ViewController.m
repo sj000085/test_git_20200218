@@ -9,8 +9,12 @@
 #import "ViewController.h"
 
 @implementation ViewController
-
+//Add 2.0 function
  
+-(void)newfunction{
+    
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
 
